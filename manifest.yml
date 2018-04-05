@@ -1,6 +1,6 @@
 ---
 applications:
-- name: piglets
+- name: "piglets"
   memory: 512M
   instances: 1
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
